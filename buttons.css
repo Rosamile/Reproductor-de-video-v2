@@ -6,7 +6,7 @@
     background-position:center;
     background-repeat:no-repeat;
 }
-#play{background-image:url('../images/play.svg');}
-#pause{background-image:url('../images/pause.svg');}
-#backward{background-image:url('../images/-10.svg');}
-#forward{background-image:url('../images/+10.svg');}
+#play{background-image:url('./play.svg');}
+#pause{background-image:url('./pause.svg');}
+#backward{background-image:url('./-10.svg');}
+#forward{background-image:url('./+10.svg');}
